@@ -1,0 +1,22 @@
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Project1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Project1\Project1\Debug\Project1.MyForm1.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Project1\Project1\Debug\Project1.MyForm2.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Project1\Project1\Debug\Project1.MyForm3.resources
+D:\Fisiere Visual Studio\Proiect POO\Repos VS\Project1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\Fisiere Visual Studio\Proiect POO\Repos VS\Project1\Project1\Debug\Project1.MyForm1.resources
+D:\Fisiere Visual Studio\Proiect POO\Repos VS\Project1\Project1\Debug\Project1.MyForm2.resources
+D:\Fisiere Visual Studio\Proiect POO\Repos VS\Project1\Project1\Debug\Project1.MyForm3.resources
+D:\Fisiere Visual Studio\Proiect POO\Repos VS\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\nou\Project1\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\nou\Project1\Project1\Debug\Project1.MyForm1.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\nou\Project1\Project1\Debug\Project1.MyForm2.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\nou\Project1\Project1\Debug\Project1.MyForm3.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\nou\Project1\Project1\Debug\Project1.vcxproj.GenerateResource.cache
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\nou\Project1\Project1\Debug\Project1.MyForm.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\ultimul sa speram\Project1\Debug\Project1.vcxproj.AssemblyReference.cache
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\ultimul sa speram\Project1\Debug\Project1.MyForm.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\ultimul sa speram\Project1\Debug\Project1.MyForm1.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\ultimul sa speram\Project1\Debug\Project1.MyForm2.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\ultimul sa speram\Project1\Debug\Project1.MyForm3.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\ultimul sa speram\Project1\Debug\Project1.vcxproj.GenerateResource.cache

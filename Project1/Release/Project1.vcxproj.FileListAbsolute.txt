@@ -1,0 +1,6 @@
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Proiect POO\Project1\Release\Project1.vcxproj.AssemblyReference.cache
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Proiect POO\Project1\Release\Project1.MyForm.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Proiect POO\Project1\Release\Project1.MyForm1.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Proiect POO\Project1\Release\Project1.MyForm2.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Proiect POO\Project1\Release\Project1.MyForm3.resources
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Proiect POO\Project1\Release\Project1.vcxproj.GenerateResource.cache

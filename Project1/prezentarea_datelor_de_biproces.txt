@@ -1,0 +1,18 @@
+	The study of bioprocesses highlights the principles that underlie life
+systems.
+	Bioprocesses are complex transformations of organic chemicals/inorganic,
+introduced into the culture medium, in products of interest
+economic.
+	These transformations (conversions) represent a set of reactions performed
+of living cells. Cells perform these conversions to acquire some metabolic products
+(substances that are required for components at the cellular level of synthesis) or to obtain
+increase or maintenance energy. At the same time, the cells are directed towards
+specific transformations of substrates into useful products by appropriate procedures.
+	This application presents an exact analysis of a bioprocess performed on water.
+It has been observed the evolution in time, more precisely an interval of 17 hours, on this substance,
+following some essential characteristics such as D.O, its pH, Substrate S (mg / 100 mL),
+and Dissolved oxygen concentration (O), in specific percentage.
+	The application provides a clear display of bioprocess data, experimental data, on
+which will translate them into a graph with specific characteristics (bioprocess, respectively
+time). It is worth mentioning that with the drawing of the bioprocess-time characteristic, grace augmented reality the user can observe the data at precise times
+corresponding to the bioprocess at that time.

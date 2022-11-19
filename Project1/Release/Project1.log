@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Proiect POO\Project1\MyForm.cpp(7,29): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+  MyForm2.cpp
+  MyForm3.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> D:\FACULTATE\Anul 2\Semestrul 1\Programare orientata pe obiecte - POO\PROIECT\Proiect POO\Release\Project1.exe
